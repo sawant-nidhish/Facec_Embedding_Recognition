@@ -1,0 +1,520 @@
+Epoch 1/50
+
+Learning rate for iter 1 is 0.10000000149011612, global_iterNum is 0
+280/280 [==============================] - ETA: 0s - loss: 34.4042 - accuracy: 0.0614
+Epoch 1: saving model to checkpoints\celebA-fisheye_epoch01.h5
+280/280 [==============================] - 94s 271ms/step - loss: 34.4042 - accuracy: 0.0614
+Epoch 2/50
+
+Learning rate for iter 2 is 0.0998782142996788, global_iterNum is 280
+280/280 [==============================] - ETA: 0s - loss: 29.6867 - accuracy: 0.2579
+Epoch 2: saving model to checkpoints\celebA-fisheye_epoch02.h5
+280/280 [==============================] - 76s 270ms/step - loss: 29.6867 - accuracy: 0.2579
+Epoch 3/50
+
+Learning rate for iter 3 is 0.0995134487748146, global_iterNum is 560
+280/280 [==============================] - ETA: 0s - loss: 26.0866 - accuracy: 0.4087
+Epoch 3: saving model to checkpoints\celebA-fisheye_epoch03.h5
+280/280 [==============================] - 76s 271ms/step - loss: 26.0866 - accuracy: 0.4087
+Epoch 4/50
+
+Learning rate for iter 4 is 0.09890749305486679, global_iterNum is 840
+280/280 [==============================] - ETA: 0s - loss: 23.2717 - accuracy: 0.5196
+Epoch 4: saving model to checkpoints\celebA-fisheye_epoch04.h5
+280/280 [==============================] - 76s 270ms/step - loss: 23.2717 - accuracy: 0.5196
+Epoch 5/50
+
+Learning rate for iter 5 is 0.09806328266859055, global_iterNum is 1120
+280/280 [==============================] - ETA: 0s - loss: 21.2969 - accuracy: 0.5930
+Epoch 5: saving model to checkpoints\celebA-fisheye_epoch05.h5
+280/280 [==============================] - 76s 270ms/step - loss: 21.2969 - accuracy: 0.5930
+Epoch 6/50
+
+Learning rate for iter 6 is 0.09698493778705597, global_iterNum is 1400
+280/280 [==============================] - ETA: 0s - loss: 19.8973 - accuracy: 0.6370
+Epoch 6: saving model to checkpoints\celebA-fisheye_epoch06.h5
+280/280 [==============================] - 76s 271ms/step - loss: 19.8973 - accuracy: 0.6370
+Epoch 7/50
+
+Learning rate for iter 7 is 0.0956777036190033, global_iterNum is 1680
+280/280 [==============================] - ETA: 0s - loss: 18.8755 - accuracy: 0.6605
+Epoch 7: saving model to checkpoints\celebA-fisheye_epoch07.h5
+280/280 [==============================] - 75s 269ms/step - loss: 18.8755 - accuracy: 0.6605
+Epoch 8/50
+
+Learning rate for iter 8 is 0.09414796531200409, global_iterNum is 1960
+280/280 [==============================] - ETA: 0s - loss: 18.0417 - accuracy: 0.6939
+Epoch 8: saving model to checkpoints\celebA-fisheye_epoch08.h5
+280/280 [==============================] - 75s 269ms/step - loss: 18.0417 - accuracy: 0.6939
+Epoch 9/50
+
+Learning rate for iter 9 is 0.09240316599607468, global_iterNum is 2240
+280/280 [==============================] - ETA: 0s - loss: 17.2662 - accuracy: 0.7209
+Epoch 9: saving model to checkpoints\celebA-fisheye_epoch09.h5
+280/280 [==============================] - 75s 269ms/step - loss: 17.2662 - accuracy: 0.7209
+Epoch 10/50
+
+Learning rate for iter 10 is 0.09045179933309555, global_iterNum is 2520
+280/280 [==============================] - ETA: 0s - loss: 16.7454 - accuracy: 0.7389
+Epoch 10: saving model to checkpoints\celebA-fisheye_epoch10.h5
+280/280 [==============================] - 76s 271ms/step - loss: 16.7454 - accuracy: 0.7389
+Epoch 11/50
+
+Learning rate for iter 11 is 0.08830338716506958, global_iterNum is 2800
+280/280 [==============================] - ETA: 0s - loss: 16.2521 - accuracy: 0.7632
+Epoch 11: saving model to checkpoints\celebA-fisheye_epoch11.h5
+280/280 [==============================] - 76s 270ms/step - loss: 16.2521 - accuracy: 0.7632
+Epoch 12/50
+
+Learning rate for iter 12 is 0.08596839755773544, global_iterNum is 3080
+280/280 [==============================] - ETA: 0s - loss: 15.7911 - accuracy: 0.7802
+Epoch 12: saving model to checkpoints\celebA-fisheye_epoch12.h5
+280/280 [==============================] - 75s 269ms/step - loss: 15.7911 - accuracy: 0.7802
+Epoch 13/50
+
+Learning rate for iter 13 is 0.08345818519592285, global_iterNum is 3360
+280/280 [==============================] - ETA: 0s - loss: 15.3216 - accuracy: 0.8023
+Epoch 13: saving model to checkpoints\celebA-fisheye_epoch13.h5
+280/280 [==============================] - 76s 271ms/step - loss: 15.3216 - accuracy: 0.8023
+Epoch 14/50
+
+Learning rate for iter 14 is 0.08078499138355255, global_iterNum is 3640
+280/280 [==============================] - ETA: 0s - loss: 15.0430 - accuracy: 0.8059
+Epoch 14: saving model to checkpoints\celebA-fisheye_epoch14.h5
+280/280 [==============================] - 76s 270ms/step - loss: 15.0430 - accuracy: 0.8059
+Epoch 15/50
+
+Learning rate for iter 15 is 0.07796185463666916, global_iterNum is 3920
+280/280 [==============================] - ETA: 0s - loss: 14.5403 - accuracy: 0.8366
+Epoch 15: saving model to checkpoints\celebA-fisheye_epoch15.h5
+280/280 [==============================] - 76s 271ms/step - loss: 14.5403 - accuracy: 0.8366
+Epoch 16/50
+
+Learning rate for iter 16 is 0.0750025063753128, global_iterNum is 4200
+280/280 [==============================] - ETA: 0s - loss: 14.2185 - accuracy: 0.8491
+Epoch 16: saving model to checkpoints\celebA-fisheye_epoch16.h5
+280/280 [==============================] - 75s 269ms/step - loss: 14.2185 - accuracy: 0.8491
+Epoch 17/50
+
+Learning rate for iter 17 is 0.07192136347293854, global_iterNum is 4480
+280/280 [==============================] - ETA: 0s - loss: 13.8633 - accuracy: 0.8600
+Epoch 17: saving model to checkpoints\celebA-fisheye_epoch17.h5
+280/280 [==============================] - 76s 270ms/step - loss: 13.8633 - accuracy: 0.8600
+Epoch 18/50
+
+Learning rate for iter 18 is 0.06873346120119095, global_iterNum is 4760
+280/280 [==============================] - ETA: 0s - loss: 13.4110 - accuracy: 0.8761
+Epoch 18: saving model to checkpoints\celebA-fisheye_epoch18.h5
+280/280 [==============================] - 76s 270ms/step - loss: 13.4110 - accuracy: 0.8761
+Epoch 19/50
+
+Learning rate for iter 19 is 0.06545430421829224, global_iterNum is 5040
+280/280 [==============================] - ETA: 0s - loss: 12.9542 - accuracy: 0.8896
+Epoch 19: saving model to checkpoints\celebA-fisheye_epoch19.h5
+280/280 [==============================] - 75s 269ms/step - loss: 12.9542 - accuracy: 0.8896
+Epoch 20/50
+
+Learning rate for iter 20 is 0.0620998851954937, global_iterNum is 5320
+280/280 [==============================] - ETA: 0s - loss: 12.4499 - accuracy: 0.9068
+Epoch 20: saving model to checkpoints\celebA-fisheye_epoch20.h5
+280/280 [==============================] - 75s 270ms/step - loss: 12.4499 - accuracy: 0.9068
+Epoch 21/50
+
+Learning rate for iter 21 is 0.05868653580546379, global_iterNum is 5600
+280/280 [==============================] - ETA: 0s - loss: 12.0173 - accuracy: 0.9212
+Epoch 21: saving model to checkpoints\celebA-fisheye_epoch21.h5
+280/280 [==============================] - 76s 270ms/step - loss: 12.0173 - accuracy: 0.9212
+Epoch 22/50
+
+Learning rate for iter 22 is 0.055230896919965744, global_iterNum is 5880
+280/280 [==============================] - ETA: 0s - loss: 11.5210 - accuracy: 0.9320
+Epoch 22: saving model to checkpoints\celebA-fisheye_epoch22.h5
+280/280 [==============================] - 75s 269ms/step - loss: 11.5210 - accuracy: 0.9320
+Epoch 23/50
+
+Learning rate for iter 23 is 0.05174980312585831, global_iterNum is 6160
+280/280 [==============================] - ETA: 0s - loss: 10.8330 - accuracy: 0.9452
+Epoch 23: saving model to checkpoints\celebA-fisheye_epoch23.h5
+280/280 [==============================] - 75s 269ms/step - loss: 10.8330 - accuracy: 0.9452
+Epoch 24/50
+
+Learning rate for iter 24 is 0.048260193318128586, global_iterNum is 6440
+280/280 [==============================] - ETA: 0s - loss: 10.2208 - accuracy: 0.9566
+Epoch 24: saving model to checkpoints\celebA-fisheye_epoch24.h5
+280/280 [==============================] - 76s 270ms/step - loss: 10.2208 - accuracy: 0.9566
+Epoch 25/50
+
+Learning rate for iter 25 is 0.04477908834815025, global_iterNum is 6720
+280/280 [==============================] - ETA: 0s - loss: 9.7540 - accuracy: 0.9664
+Epoch 25: saving model to checkpoints\celebA-fisheye_epoch25.h5
+280/280 [==============================] - 75s 270ms/step - loss: 9.7540 - accuracy: 0.9664
+Epoch 26/50
+
+Learning rate for iter 26 is 0.041323449462652206, global_iterNum is 7000
+280/280 [==============================] - ETA: 0s - loss: 9.0854 - accuracy: 0.9748
+Epoch 26: saving model to checkpoints\celebA-fisheye_epoch26.h5
+280/280 [==============================] - 76s 270ms/step - loss: 9.0854 - accuracy: 0.9748
+Epoch 27/50
+
+Learning rate for iter 27 is 0.037910107523202896, global_iterNum is 7280
+280/280 [==============================] - ETA: 0s - loss: 8.3630 - accuracy: 0.9821
+Epoch 27: saving model to checkpoints\celebA-fisheye_epoch27.h5
+280/280 [==============================] - 76s 270ms/step - loss: 8.3630 - accuracy: 0.9821
+Epoch 28/50
+
+Learning rate for iter 28 is 0.03455568477511406, global_iterNum is 7560
+280/280 [==============================] - ETA: 0s - loss: 7.6858 - accuracy: 0.9870
+Epoch 28: saving model to checkpoints\celebA-fisheye_epoch28.h5
+280/280 [==============================] - 75s 269ms/step - loss: 7.6858 - accuracy: 0.9870
+Epoch 29/50
+
+Learning rate for iter 29 is 0.031276535242795944, global_iterNum is 7840
+280/280 [==============================] - ETA: 0s - loss: 7.0171 - accuracy: 0.9932
+Epoch 29: saving model to checkpoints\celebA-fisheye_epoch29.h5
+280/280 [==============================] - 76s 270ms/step - loss: 7.0171 - accuracy: 0.9932
+Epoch 30/50
+
+Learning rate for iter 30 is 0.028088627383112907, global_iterNum is 8120
+280/280 [==============================] - ETA: 0s - loss: 6.2596 - accuracy: 0.9936
+Epoch 30: saving model to checkpoints\celebA-fisheye_epoch30.h5
+280/280 [==============================] - 75s 269ms/step - loss: 6.2596 - accuracy: 0.9936
+Epoch 31/50
+
+Learning rate for iter 31 is 0.025007495656609535, global_iterNum is 8400
+280/280 [==============================] - ETA: 0s - loss: 5.6215 - accuracy: 0.9977
+Epoch 31: saving model to checkpoints\celebA-fisheye_epoch31.h5
+280/280 [==============================] - 76s 270ms/step - loss: 5.6215 - accuracy: 0.9977
+Epoch 32/50
+
+Learning rate for iter 32 is 0.022048145532608032, global_iterNum is 8680
+280/280 [==============================] - ETA: 0s - loss: 5.1008 - accuracy: 0.9989
+Epoch 32: saving model to checkpoints\celebA-fisheye_epoch32.h5
+280/280 [==============================] - 75s 269ms/step - loss: 5.1008 - accuracy: 0.9989
+Epoch 33/50
+
+Learning rate for iter 33 is 0.019224993884563446, global_iterNum is 8960
+280/280 [==============================] - ETA: 0s - loss: 4.6224 - accuracy: 0.9993
+Epoch 33: saving model to checkpoints\celebA-fisheye_epoch33.h5
+280/280 [==============================] - 76s 271ms/step - loss: 4.6224 - accuracy: 0.9993
+Epoch 34/50
+
+Learning rate for iter 34 is 0.01655181311070919, global_iterNum is 9240
+280/280 [==============================] - ETA: 0s - loss: 4.2567 - accuracy: 0.9996
+Epoch 34: saving model to checkpoints\celebA-fisheye_epoch34.h5
+280/280 [==============================] - 75s 270ms/step - loss: 4.2567 - accuracy: 0.9996
+Epoch 35/50
+
+Learning rate for iter 35 is 0.014041601680219173, global_iterNum is 9520
+280/280 [==============================] - ETA: 0s - loss: 4.0320 - accuracy: 0.9995
+Epoch 35: saving model to checkpoints\celebA-fisheye_epoch35.h5
+280/280 [==============================] - 75s 270ms/step - loss: 4.0320 - accuracy: 0.9995
+Epoch 36/50
+
+Learning rate for iter 36 is 0.011706599965691566, global_iterNum is 9800
+280/280 [==============================] - ETA: 0s - loss: 3.8517 - accuracy: 0.9995
+Epoch 36: saving model to checkpoints\celebA-fisheye_epoch36.h5
+280/280 [==============================] - 76s 271ms/step - loss: 3.8517 - accuracy: 0.9995
+Epoch 37/50
+
+Learning rate for iter 37 is 0.009558192454278469, global_iterNum is 10080
+280/280 [==============================] - ETA: 0s - loss: 3.7186 - accuracy: 0.9993
+Epoch 37: saving model to checkpoints\celebA-fisheye_epoch37.h5
+280/280 [==============================] - 76s 271ms/step - loss: 3.7186 - accuracy: 0.9993
+Epoch 38/50
+
+Learning rate for iter 38 is 0.007606832776218653, global_iterNum is 10360
+280/280 [==============================] - ETA: 0s - loss: 3.6270 - accuracy: 0.9996
+Epoch 38: saving model to checkpoints\celebA-fisheye_epoch38.h5
+280/280 [==============================] - 75s 270ms/step - loss: 3.6270 - accuracy: 0.9996
+Epoch 39/50
+
+Learning rate for iter 39 is 0.005862033925950527, global_iterNum is 10640
+280/280 [==============================] - ETA: 0s - loss: 3.5536 - accuracy: 0.9996
+Epoch 39: saving model to checkpoints\celebA-fisheye_epoch39.h5
+280/280 [==============================] - 76s 270ms/step - loss: 3.5536 - accuracy: 0.9996
+Epoch 40/50
+
+Learning rate for iter 40 is 0.004332293290644884, global_iterNum is 10920
+280/280 [==============================] - ETA: 0s - loss: 3.5062 - accuracy: 0.9996
+Epoch 40: saving model to checkpoints\celebA-fisheye_epoch40.h5
+280/280 [==============================] - 76s 271ms/step - loss: 3.5062 - accuracy: 0.9996
+Epoch 41/50
+
+Learning rate for iter 41 is 0.0030250647105276585, global_iterNum is 11200
+280/280 [==============================] - ETA: 0s - loss: 3.4694 - accuracy: 1.0000
+Epoch 41: saving model to checkpoints\celebA-fisheye_epoch41.h5
+280/280 [==============================] - 76s 270ms/step - loss: 3.4694 - accuracy: 1.0000
+Epoch 42/50
+
+Learning rate for iter 42 is 0.001946721808053553, global_iterNum is 11480
+280/280 [==============================] - ETA: 0s - loss: 3.4464 - accuracy: 0.9998
+Epoch 42: saving model to checkpoints\celebA-fisheye_epoch42.h5
+280/280 [==============================] - 75s 270ms/step - loss: 3.4464 - accuracy: 0.9998
+Epoch 43/50
+
+Learning rate for iter 43 is 0.001102509442716837, global_iterNum is 11760
+280/280 [==============================] - ETA: 0s - loss: 3.4339 - accuracy: 0.9998
+Epoch 43: saving model to checkpoints\celebA-fisheye_epoch43.h5
+280/280 [==============================] - 76s 270ms/step - loss: 3.4339 - accuracy: 0.9998
+Epoch 44/50
+
+Learning rate for iter 44 is 0.0004965457483194768, global_iterNum is 12040
+280/280 [==============================] - ETA: 0s - loss: 3.4298 - accuracy: 1.0000
+Epoch 44: saving model to checkpoints\celebA-fisheye_epoch44.h5
+280/280 [==============================] - 76s 270ms/step - loss: 3.4298 - accuracy: 1.0000
+Epoch 45/50
+
+Learning rate for iter 45 is 0.00013178394874557853, global_iterNum is 12320
+280/280 [==============================] - ETA: 0s - loss: 3.4270 - accuracy: 1.0000
+Epoch 45: saving model to checkpoints\celebA-fisheye_epoch45.h5
+280/280 [==============================] - 75s 269ms/step - loss: 3.4270 - accuracy: 1.0000
+Epoch 46/50
+
+Learning rate for iter 46 is 1e-05, global_iterNum is 12600
+280/280 [==============================] - ETA: 0s - loss: 3.4252 - accuracy: 1.0000
+Epoch 46: saving model to checkpoints\celebA-fisheye_epoch46.h5
+280/280 [==============================] - 75s 267ms/step - loss: 3.4252 - accuracy: 1.0000
+Epoch 47/50
+
+Learning rate for iter 47 is 0.050005000084638596, global_iterNum is 12880
+280/280 [==============================] - ETA: 0s - loss: 6.4031 - accuracy: 0.9734
+Epoch 47: saving model to checkpoints\celebA-fisheye_epoch47.h5
+280/280 [==============================] - 75s 270ms/step - loss: 6.4031 - accuracy: 0.9734
+Epoch 48/50
+
+Learning rate for iter 48 is 0.04998977109789848, global_iterNum is 13160
+280/280 [==============================] - ETA: 0s - loss: 12.8836 - accuracy: 0.8877
+Epoch 48: saving model to checkpoints\celebA-fisheye_epoch48.h5
+280/280 [==============================] - 75s 269ms/step - loss: 12.8836 - accuracy: 0.8877
+Epoch 49/50
+
+Learning rate for iter 49 is 0.04994410648941994, global_iterNum is 13440
+280/280 [==============================] - ETA: 0s - loss: 11.8379 - accuracy: 0.9255
+Epoch 49: saving model to checkpoints\celebA-fisheye_epoch49.h5
+280/280 [==============================] - 75s 269ms/step - loss: 11.8379 - accuracy: 0.9255
+Epoch 50/50
+
+Learning rate for iter 50 is 0.049868058413267136, global_iterNum is 13720
+280/280 [==============================] - ETA: 0s - loss: 11.1423 - accuracy: 0.9500
+Epoch 50: saving model to checkpoints\celebA-fisheye_epoch50.h5
+280/280 [==============================] - 76s 270ms/step - loss: 11.1423 - accuracy: 0.9500
+>>>> Train arcface DONE!!! epochs = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49], model.stop_training = False
+>>>> My history:
+{
+  'lr': [0.09987908601760864, 0.09951519221067429, 0.09891008585691452, 0.09806670993566513, 0.09698919951915741, 0.0956827774643898, 0.09415381401777267, 0.09240976721048355, 0.09045913070440292, 0.08831139653921127, 0.08597704768180847, 0.08346744626760483, 0.0807948112487793, 0.07797218859195709, 0.07501328736543655, 0.07193256914615631, 0.06874501705169678, 0.06546615809202194, 0.062111981213092804, 0.05869881436228752, 0.055243294686079025, 0.051762260496616364, 0.04827265441417694, 0.04479149729013443, 0.041335731744766235, 0.0379222072660923, 0.03456754982471466, 0.03128809854388237, 0.028099840506911278, 0.025018293410539627, 0.022058483213186264, 0.019234832376241684, 0.016561079770326614, 0.014050264842808247, 0.011714625172317028, 0.009565522894263268, 0.007613439112901688, 0.005867889150977135, 0.00433736527338624, 0.003029329003766179, 0.001950160600244999, 0.0011051049223169684, 0.0004982830723747611, 0.00013265706365928054, 1.0002980161516462e-05, 9.999999747378752e-06, 0.04998987913131714, 0.04994432255625725, 0.0498683862388134, 0.04976215586066246],
+  'loss': [23.042698860168457, 20.19086456298828, 17.941662788391113, 16.13314390182495, 14.897703170776367, 14.01873779296875, 13.374541282653809, 12.779088497161865, 12.165436744689941, 11.71412992477417, 11.255195140838623, 10.786633968353271, 10.286625385284424, 9.964958190917969, 9.440352439880371, 9.063697338104248, 8.667314052581787, 8.176459312438965, 7.692055702209473, 7.16987419128418, 6.720982074737549, 6.238522052764893, 5.579085350036621, 5.003772735595703, 4.574549674987793, 3.9790711402893066, 3.3510866165161133, 2.7960801124572754, 2.2614431381225586, 1.6626996994018555, 1.200085163116455, 0.8526782989501953, 0.5438838005065918, 0.33270812034606934, 0.23926758766174316, 0.1669776439666748, 0.12022542953491211, 0.09532427787780762, 0.07185721397399902, 0.060164451599121094, 0.047300100326538086, 0.03888416290283203, 0.034020185470581055, 0.03287482261657715, 0.03058028221130371, 0.028815269470214844, 2.490556240081787, 8.140765190124512, 6.66970682144165, 5.7044758796691895],
+  'accuracy': [0.06142857298254967, 0.25785714387893677, 0.4087499976158142, 0.5196428298950195, 0.5930356979370117, 0.6369642615318298, 0.6605356931686401, 0.693928599357605, 0.7208928465843201, 0.7389285564422607, 0.7632142901420593, 0.7801785469055176, 0.8023214340209961, 0.8058928847312927, 0.8366071581840515, 0.8491071462631226, 0.8600000143051147, 0.8760714530944824, 0.8896428346633911, 0.9067857265472412, 0.9212499856948853, 0.9319642782211304, 0.9451785683631897, 0.9566071629524231, 0.9664285778999329, 0.9748214483261108, 0.9821428656578064, 0.9869642853736877, 0.9932143092155457, 0.993571400642395, 0.9976785778999329, 0.9989285469055176, 0.9992856979370117, 0.9996428489685059, 0.9994642734527588, 0.9994642734527588, 0.9992856979370117, 0.9996428489685059, 0.9996428489685059, 0.9996428489685059, 1.0, 0.9998214244842529, 0.9998214244842529, 1.0, 1.0, 1.0, 0.9733928442001343, 0.8876785635948181, 0.9255357384681702, 0.949999988079071],
+  'regular_loss': [11.361536979675293, 9.495826721191406, 8.144890785217285, 7.138535022735596, 6.399158477783203, 5.878608703613281, 5.5009965896606445, 5.262657642364502, 5.100754737854004, 5.031233310699463, 4.996893405914307, 5.004486560821533, 5.035004138946533, 5.078080177307129, 5.099918365478516, 5.154811382293701, 5.1960129737854, 5.2345476150512695, 5.262153625488281, 5.279997825622559, 5.296360492706299, 5.282521724700928, 5.253911018371582, 5.216986656188965, 5.179495811462402, 5.106359004974365, 5.011922836303711, 4.889750003814697, 4.7556586265563965, 4.596897602081299, 4.421398639678955, 4.248112201690674, 4.078502655029297, 3.9239962100982666, 3.7927701473236084, 3.6847448348999023, 3.598393678665161, 3.53171706199646, 3.4817917346954346, 3.4460620880126953, 3.422097682952881, 3.407477378845215, 3.399869680404663, 3.396960973739624, 3.396439552307129, 3.3963441848754883, 3.9125514030456543, 4.742879867553711, 5.168234348297119, 5.437780857086182],
+}
+>>>> Saving latest basic model to: checkpoints\celebA-fisheye_basic_model_latest.h5
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+
+
+Epoch 1/20
+
+Learning rate for iter 1 is 0.10000000149011612, global_iterNum is 0
+1910/1910 [==============================] - ETA: 0s - loss: 22.0287 - accuracy: 0.0037
+Epoch 1: saving model to checkpoints\celebA-fisheye-v2_epoch01.h5
+1910/1910 [==============================] - 527s 266ms/step - loss: 22.0287 - accuracy: 0.0037
+Epoch 2/20
+
+Learning rate for iter 2 is 0.0998782142996788, global_iterNum is 1910
+1910/1910 [==============================] - ETA: 0s - loss: 10.6506 - accuracy: 0.0065
+Epoch 2: saving model to checkpoints\celebA-fisheye-v2_epoch02.h5
+1910/1910 [==============================] - 502s 263ms/step - loss: 10.6506 - accuracy: 0.0065
+Epoch 3/20
+
+Learning rate for iter 3 is 0.0995134487748146, global_iterNum is 3820
+1910/1910 [==============================] - ETA: 0s - loss: 8.7294 - accuracy: 0.0096
+Epoch 3: saving model to checkpoints\celebA-fisheye-v2_epoch03.h5
+1910/1910 [==============================] - 503s 263ms/step - loss: 8.7294 - accuracy: 0.0096
+Epoch 4/20
+
+Learning rate for iter 4 is 0.09890749305486679, global_iterNum is 5730
+1910/1910 [==============================] - ETA: 0s - loss: 8.4228 - accuracy: 0.0111
+Epoch 4: saving model to checkpoints\celebA-fisheye-v2_epoch04.h5
+1910/1910 [==============================] - 503s 264ms/step - loss: 8.4228 - accuracy: 0.0111
+Epoch 5/20
+
+Learning rate for iter 5 is 0.09806328266859055, global_iterNum is 7640
+1910/1910 [==============================] - ETA: 0s - loss: 8.3519 - accuracy: 0.0122
+Epoch 5: saving model to checkpoints\celebA-fisheye-v2_epoch05.h5
+1910/1910 [==============================] - 503s 264ms/step - loss: 8.3519 - accuracy: 0.0122
+Epoch 6/20
+
+Learning rate for iter 6 is 0.09698493778705597, global_iterNum is 9550
+1910/1910 [==============================] - ETA: 0s - loss: 8.3166 - accuracy: 0.0143
+Epoch 6: saving model to checkpoints\celebA-fisheye-v2_epoch06.h5
+1910/1910 [==============================] - 503s 263ms/step - loss: 8.3166 - accuracy: 0.0143
+Epoch 7/20
+
+Learning rate for iter 7 is 0.0956777036190033, global_iterNum is 11460
+1910/1910 [==============================] - ETA: 0s - loss: 8.2909 - accuracy: 0.0154
+Epoch 7: saving model to checkpoints\celebA-fisheye-v2_epoch07.h5
+1910/1910 [==============================] - 503s 263ms/step - loss: 8.2909 - accuracy: 0.0154
+Epoch 8/20
+
+Learning rate for iter 8 is 0.09414796531200409, global_iterNum is 13370
+1910/1910 [==============================] - ETA: 0s - loss: 8.2715 - accuracy: 0.0170
+Epoch 8: saving model to checkpoints\celebA-fisheye-v2_epoch08.h5
+1910/1910 [==============================] - 503s 263ms/step - loss: 8.2715 - accuracy: 0.0170
+Epoch 9/20
+
+Learning rate for iter 9 is 0.09240316599607468, global_iterNum is 15280
+1910/1910 [==============================] - ETA: 0s - loss: 8.2534 - accuracy: 0.0172
+Epoch 9: saving model to checkpoints\celebA-fisheye-v2_epoch09.h5
+1910/1910 [==============================] - 503s 263ms/step - loss: 8.2534 - accuracy: 0.0172
+Epoch 10/20
+
+Learning rate for iter 10 is 0.09045179933309555, global_iterNum is 17190
+1910/1910 [==============================] - ETA: 0s - loss: 8.2424 - accuracy: 0.0179
+Epoch 10: saving model to checkpoints\celebA-fisheye-v2_epoch10.h5
+1910/1910 [==============================] - 503s 264ms/step - loss: 8.2424 - accuracy: 0.0179
+Epoch 11/20
+
+Learning rate for iter 11 is 0.08830338716506958, global_iterNum is 19100
+1910/1910 [==============================] - ETA: 0s - loss: 8.2315 - accuracy: 0.0178
+Epoch 11: saving model to checkpoints\celebA-fisheye-v2_epoch11.h5
+1910/1910 [==============================] - 504s 264ms/step - loss: 8.2315 - accuracy: 0.0178
+Epoch 12/20
+
+Learning rate for iter 12 is 0.08596839755773544, global_iterNum is 21010
+1910/1910 [==============================] - ETA: 0s - loss: 8.2188 - accuracy: 0.0181
+Epoch 12: saving model to checkpoints\celebA-fisheye-v2_epoch12.h5
+1910/1910 [==============================] - 503s 263ms/step - loss: 8.2188 - accuracy: 0.0181
+Epoch 13/20
+
+Learning rate for iter 13 is 0.08345818519592285, global_iterNum is 22920
+1910/1910 [==============================] - ETA: 0s - loss: 8.2029 - accuracy: 0.0208
+Epoch 13: saving model to checkpoints\celebA-fisheye-v2_epoch13.h5
+1910/1910 [==============================] - 503s 263ms/step - loss: 8.2029 - accuracy: 0.0208
+Epoch 14/20
+
+Learning rate for iter 14 is 0.08078499138355255, global_iterNum is 24830
+1910/1910 [==============================] - ETA: 0s - loss: 8.1888 - accuracy: 0.0210
+Epoch 14: saving model to checkpoints\celebA-fisheye-v2_epoch14.h5
+1910/1910 [==============================] - 504s 264ms/step - loss: 8.1888 - accuracy: 0.0210
+Epoch 15/20
+
+Learning rate for iter 15 is 0.07796185463666916, global_iterNum is 26740
+1910/1910 [==============================] - ETA: 0s - loss: 8.1765 - accuracy: 0.0207
+Epoch 15: saving model to checkpoints\celebA-fisheye-v2_epoch15.h5
+1910/1910 [==============================] - 503s 263ms/step - loss: 8.1765 - accuracy: 0.0207
+Epoch 16/20
+
+Learning rate for iter 16 is 0.0750025063753128, global_iterNum is 28650
+1910/1910 [==============================] - ETA: 0s - loss: 8.1637 - accuracy: 0.0202
+Epoch 16: saving model to checkpoints\celebA-fisheye-v2_epoch16.h5
+1910/1910 [==============================] - 504s 264ms/step - loss: 8.1637 - accuracy: 0.0202
+Epoch 17/20
+
+Learning rate for iter 17 is 0.07192136347293854, global_iterNum is 30560
+1910/1910 [==============================] - ETA: 0s - loss: 8.1447 - accuracy: 0.0226
+Epoch 17: saving model to checkpoints\celebA-fisheye-v2_epoch17.h5
+1910/1910 [==============================] - 502s 263ms/step - loss: 8.1447 - accuracy: 0.0226
+Epoch 18/20
+
+Learning rate for iter 18 is 0.06873346120119095, global_iterNum is 32470
+1910/1910 [==============================] - ETA: 0s - loss: 8.1320 - accuracy: 0.0216
+Epoch 18: saving model to checkpoints\celebA-fisheye-v2_epoch18.h5
+1910/1910 [==============================] - 503s 263ms/step - loss: 8.1320 - accuracy: 0.0216
+Epoch 19/20
+
+Learning rate for iter 19 is 0.06545430421829224, global_iterNum is 34380
+1910/1910 [==============================] - ETA: 0s - loss: 8.1097 - accuracy: 0.0241
+Epoch 19: saving model to checkpoints\celebA-fisheye-v2_epoch19.h5
+1910/1910 [==============================] - 502s 263ms/step - loss: 8.1097 - accuracy: 0.0241
+Epoch 20/20
+
+Learning rate for iter 20 is 0.0620998851954937, global_iterNum is 36290
+1910/1910 [==============================] - ETA: 0s - loss: 8.0954 - accuracy: 0.0231
+Epoch 20: saving model to checkpoints\celebA-fisheye-v2_epoch20.h5
+1910/1910 [==============================] - 502s 263ms/step - loss: 8.0954 - accuracy: 0.0231
+>>>> Train arcface DONE!!! epochs = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], model.stop_training = False
+>>>> My history:
+{
+  'lr': [0.09987834095954895, 0.0995137095451355, 0.09890786558389664, 0.09806378185749054, 0.09698556363582611, 0.09567845612764359, 0.09414882212877274, 0.09240413457155228, 0.09045287221670151, 0.08830457180738449, 0.08596965670585632, 0.08345954865217209, 0.08078642934560776, 0.07796336710453033, 0.07500408589839935, 0.07192301005125046, 0.06873515248298645, 0.06545604765415192, 0.062101662158966064, 0.058688338845968246],
+  'loss': [16.750328540802002, 9.622874021530151, 8.30674633383751, 8.087114661931992, 8.029332637786865, 7.996425122022629, 7.97349688410759, 7.959566622972488, 7.9445852637290955, 7.936010241508484, 7.928336650133133, 7.9197991490364075, 7.908798635005951, 7.901006639003754, 7.8918329775333405, 7.884429574012756, 7.871345698833466, 7.864809960126877, 7.851539701223373, 7.842025727033615],
+  'accuracy': [0.0037434555124491453, 0.006518324837088585, 0.009554973803460598, 0.011073298752307892, 0.012225130572915077, 0.014267015270888805, 0.015445026569068432, 0.016963351517915726, 0.01719895377755165, 0.017879581078886986, 0.017827225849032402, 0.01811518333852291, 0.020759161561727524, 0.021047120913863182, 0.02070680633187294, 0.02023560181260109, 0.0225654449313879, 0.02164921537041664, 0.02408376894891262, 0.023115184158086777],
+  'regular_loss': [5.278327465057373, 1.0277750492095947, 0.42265525460243225, 0.3356415331363678, 0.322537899017334, 0.32021287083625793, 0.31735947728157043, 0.3118862807750702, 0.30877548456192017, 0.3064175844192505, 0.3031572997570038, 0.29902809858322144, 0.294128954410553, 0.28774458169937134, 0.2846616208553314, 0.2792600393295288, 0.27334386110305786, 0.2671833336353302, 0.25818243622779846, 0.2533426582813263],
+}
+>>>> Saving latest basic model to: checkpoints\celebA-fisheye-v2_basic_model_latest.h5
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+
+###############Transfer learning model
+>>>> Add L2 regularizer to model output layer, output_weight_decay = 0.000500
+>>>> Add arcface layer, arc_kwargs={'loss_top_k': 1, 'append_norm': False, 'partial_fc_split': 0, 'name': 'arcface'}, vpl_kwargs={'vpl_lambda': 0.15, 'start_iters': -1910, 'allowed_delta': 200}...
+>>>> loss_weights: {'arcface': 1}
+Epoch 1/10
+
+Learning rate for iter 1 is 0.009999999776482582, global_iterNum is 0
+1910/1910 [==============================] - ETA: 0s - loss: 20.1548 - accuracy: 0.2516
+Epoch 1: saving model to checkpoints\ghostnetv1-s1-cont_epoch01.h5
+1910/1910 [==============================] - 520s 262ms/step - loss: 20.1548 - accuracy: 0.2516
+Epoch 2/10
+
+Learning rate for iter 2 is 0.00998783204704523, global_iterNum is 1910
+1910/1910 [==============================] - ETA: 0s - loss: 14.3615 - accuracy: 0.7226
+Epoch 2: saving model to checkpoints\ghostnetv1-s1-cont_epoch02.h5
+1910/1910 [==============================] - 502s 263ms/step - loss: 14.3615 - accuracy: 0.7226
+Epoch 3/10
+
+Learning rate for iter 3 is 0.009951388463377953, global_iterNum is 3820
+1910/1910 [==============================] - ETA: 0s - loss: 11.6254 - accuracy: 0.8523
+Epoch 3: saving model to checkpoints\ghostnetv1-s1-cont_epoch03.h5
+1910/1910 [==============================] - 501s 262ms/step - loss: 11.6254 - accuracy: 0.8523
+Epoch 4/10
+
+Learning rate for iter 4 is 0.009890846908092499, global_iterNum is 5730
+1910/1910 [==============================] - ETA: 0s - loss: 10.1271 - accuracy: 0.9041
+Epoch 4: saving model to checkpoints\ghostnetv1-s1-cont_epoch04.h5
+1910/1910 [==============================] - 500s 262ms/step - loss: 10.1271 - accuracy: 0.9041
+Epoch 5/10
+
+Learning rate for iter 5 is 0.009806502610445023, global_iterNum is 7640
+1910/1910 [==============================] - ETA: 0s - loss: 8.9930 - accuracy: 0.9357
+Epoch 5: saving model to checkpoints\ghostnetv1-s1-cont_epoch05.h5
+1910/1910 [==============================] - 500s 262ms/step - loss: 8.9930 - accuracy: 0.9357
+Epoch 6/10
+
+Learning rate for iter 6 is 0.00969876442104578, global_iterNum is 9550
+1910/1910 [==============================] - ETA: 0s - loss: 8.1493 - accuracy: 0.9548
+Epoch 6: saving model to checkpoints\ghostnetv1-s1-cont_epoch06.h5
+1910/1910 [==============================] - 504s 264ms/step - loss: 8.1493 - accuracy: 0.9548
+Epoch 7/10
+
+Learning rate for iter 7 is 0.00956815853714943, global_iterNum is 11460
+1910/1910 [==============================] - ETA: 0s - loss: 7.4483 - accuracy: 0.9705
+Epoch 7: saving model to checkpoints\ghostnetv1-s1-cont_epoch07.h5
+1910/1910 [==============================] - 500s 262ms/step - loss: 7.4483 - accuracy: 0.9705
+Epoch 8/10
+
+Learning rate for iter 8 is 0.009415322914719582, global_iterNum is 13370
+1910/1910 [==============================] - ETA: 0s - loss: 6.8212 - accuracy: 0.9814
+Epoch 8: saving model to checkpoints\ghostnetv1-s1-cont_epoch08.h5
+1910/1910 [==============================] - 498s 260ms/step - loss: 6.8212 - accuracy: 0.9814
+Epoch 9/10
+
+Learning rate for iter 9 is 0.009240999817848206, global_iterNum is 15280
+1910/1910 [==============================] - ETA: 0s - loss: 6.3090 - accuracy: 0.9870
+Epoch 9: saving model to checkpoints\ghostnetv1-s1-cont_epoch09.h5
+1910/1910 [==============================] - 500s 262ms/step - loss: 6.3090 - accuracy: 0.9870
+Epoch 10/10
+
+Learning rate for iter 10 is 0.009046039544045925, global_iterNum is 17190
+1910/1910 [==============================] - ETA: 0s - loss: 5.8207 - accuracy: 0.9922
+Epoch 10: saving model to checkpoints\ghostnetv1-s1-cont_epoch10.h5
+1910/1910 [==============================] - 504s 264ms/step - loss: 5.8207 - accuracy: 0.9922
+>>>> Train arcface DONE!!! epochs = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], model.stop_training = False
+>>>> My history:
+{
+  'lr': [0.09987834095954895, 0.0099878441542387, 0.009951414540410042, 0.009890884160995483, 0.009806551970541477, 0.00969882681965828, 0.0099878441542387, 0.009951414540410042, 0.009890884160995483, 0.009806551970541477, 0.00969882681965828, 0.009568233974277973, 0.009415408596396446, 0.009241096675395966, 0.009046146646142006, 0.00883150938898325],
+  'loss': [12.079349040985107, 18.138279676437378, 11.530950546264648, 8.659122943878174, 6.884660959243774, 5.511155366897583, 18.960499167442322, 12.740888953208923, 9.609848260879517, 7.7224509716033936, 6.2311811447143555, 5.083257436752319, 4.14154839515686, 3.351346015930176, 2.746023654937744, 2.23478364944458],
+  'accuracy': [0.002774869091808796, 0.3257853388786316, 0.7797905802726746, 0.882565438747406, 0.9223560094833374, 0.9479842782020569, 0.2515706717967987, 0.7226439714431763, 0.852303683757782, 0.9041361212730408, 0.9357067942619324, 0.9547905921936035, 0.9704973697662354, 0.9814136028289795, 0.9870418906211853, 0.9922251105308533],
+  'regular_loss': [3.2998948097229004, 1.2933151721954346, 1.7367420196533203, 2.140267848968506, 2.532606840133667, 2.8734376430511475, 1.1943069696426392, 1.620639443397522, 2.015536069869995, 2.4046833515167236, 2.7617788314819336, 3.0660746097564697, 3.3067591190338135, 3.469816207885742, 3.562997341156006, 3.585881233215332],
+}
+>>>> Saving latest basic model to: checkpoints\ghostnetv1-s1-cont_basic_model_latest.h5
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
